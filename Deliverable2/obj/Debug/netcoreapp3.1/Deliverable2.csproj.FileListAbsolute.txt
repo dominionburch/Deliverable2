@@ -1,0 +1,13 @@
+/Users/Burch/Projects/Deliverable2/Deliverable2/bin/Debug/netcoreapp3.1/Deliverable2.deps.json
+/Users/Burch/Projects/Deliverable2/Deliverable2/bin/Debug/netcoreapp3.1/Deliverable2.runtimeconfig.json
+/Users/Burch/Projects/Deliverable2/Deliverable2/bin/Debug/netcoreapp3.1/Deliverable2.runtimeconfig.dev.json
+/Users/Burch/Projects/Deliverable2/Deliverable2/bin/Debug/netcoreapp3.1/Deliverable2.dll
+/Users/Burch/Projects/Deliverable2/Deliverable2/bin/Debug/netcoreapp3.1/Deliverable2.pdb
+/Users/Burch/Projects/Deliverable2/Deliverable2/obj/Debug/netcoreapp3.1/Deliverable2.csproj.AssemblyReference.cache
+/Users/Burch/Projects/Deliverable2/Deliverable2/obj/Debug/netcoreapp3.1/Deliverable2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Burch/Projects/Deliverable2/Deliverable2/obj/Debug/netcoreapp3.1/Deliverable2.AssemblyInfoInputs.cache
+/Users/Burch/Projects/Deliverable2/Deliverable2/obj/Debug/netcoreapp3.1/Deliverable2.AssemblyInfo.cs
+/Users/Burch/Projects/Deliverable2/Deliverable2/obj/Debug/netcoreapp3.1/Deliverable2.csproj.CoreCompileInputs.cache
+/Users/Burch/Projects/Deliverable2/Deliverable2/obj/Debug/netcoreapp3.1/Deliverable2.dll
+/Users/Burch/Projects/Deliverable2/Deliverable2/obj/Debug/netcoreapp3.1/Deliverable2.pdb
+/Users/Burch/Projects/Deliverable2/Deliverable2/obj/Debug/netcoreapp3.1/Deliverable2.genruntimeconfig.cache
